@@ -1,2 +1,2 @@
-# Healthcare-Machine-Learning
-containing healthcare related ML projects
+# Machine-Learning & Deep Learning Projects
+containing the Machine Learning and Deep Learning Projects
